@@ -1,0 +1,52 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.w-bg {
+  background-image: linear-gradient(
+      to left,
+      rgba(247, 81, 81, 0.671),
+      rgba(15, 12, 14, 0.73)
+    ),
+    url("/img/Rectangle\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container-fluid {
+  width: 900px;
+  margin: auto;
+}
+.wellcome-area {
+  width: 50%;
+  height: 640px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+}
+.wellcome-area h1 {
+  font-size: 45px;
+  color: aliceblue;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.wellcome-area p {
+  width: 80%;
+  color: white;
+  font-weight: 500px;
+  margin-bottom: 10px;
+}
+.wellcome-area span {
+  width: 32%;
+  background-color: rgba(240, 199, 17, 0.842);
+  padding: 15px 0;
+  text-align: center;
+  border-radius: 5%;
+}
+span a {
+  text-decoration: none;
+  color: aliceblue;
+  font-weight: bold;
+}
