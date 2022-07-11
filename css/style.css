@@ -5,12 +5,12 @@
 
 .w-bg {
   height: 100vh;
-  background: linear-gradient(
+  background-image: linear-gradient(
       to left,
       rgba(247, 81, 81, 0.671),
       rgba(15, 12, 14, 0.73)
     ),
-    url("../img/rectangle.png");
+    url(../img/rectangle.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
