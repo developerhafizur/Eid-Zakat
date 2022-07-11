@@ -5,14 +5,10 @@
 
 .w-bg {
   height: 100vh;
-  background-image: linear-gradient(
-      to left,
-      rgba(247, 81, 81, 0.671),
-      rgba(15, 12, 14, 0.73)
-    ),
-    url(./img/rectangle.png);
+  background-image: linear-gradient(to right, rgba(95, 79, 79, 0.596),rgba(15, 12, 14, 0.562)), url(./img/rectangle.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: 100% 100%;
 }
 
 .container-fluid {
