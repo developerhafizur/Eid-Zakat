@@ -4,6 +4,7 @@
 }
 
 .w-bg {
+  height: 100vh;
   background: linear-gradient(
       to left,
       rgba(247, 81, 81, 0.671),
