@@ -10,7 +10,7 @@
       rgba(95, 79, 79, 0.712),
       rgba(56, 51, 54, 0.541)
     ),
-    url(./img/rectangle.png);
+    url(./img/Rectangle.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 100% 100%;
@@ -40,7 +40,7 @@
   font-weight: 500px;
   margin-bottom: 10px;
 }
-span{
+span {
   width: 31%;
   background-color: rgba(240, 199, 17, 0.842);
   padding: 15px 10px;
@@ -49,7 +49,6 @@ span{
 }
 
 span a {
-  
   text-decoration: none;
   color: rgb(255, 255, 255);
   font-weight: bold;
@@ -60,20 +59,18 @@ span:hover {
 }
 
 /***end***/
-.article-section{
-  
+.article-section {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
-.article-1{
+.article-1 {
   margin-top: 4rem;
   margin-bottom: 4rem;
   display: flex;
   justify-content: center;
-
 }
-.article-txt{
+.article-txt {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -83,26 +80,10 @@ span:hover {
   margin-right: 20px;
 }
 
-.article-2{
+.article-2 {
   display: flex;
   justify-content: center;
   margin-top: 4rem;
   margin-bottom: 4rem;
- 
-
 }
 /**end**/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
